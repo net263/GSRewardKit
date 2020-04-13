@@ -1,6 +1,8 @@
 # GSRewardKit
 FAST SDK的打赏模块，包含支付功能。仅在FASTSDK需要支付功能时导入。
 
+由于苹果审核严格，集成此SDK有被拒风险，请参考苹果支付相关规则。
+
 ## Example
 
 为了使用`Example`工程，请在其`Podfile`文件目录下，运行`pod install`.
